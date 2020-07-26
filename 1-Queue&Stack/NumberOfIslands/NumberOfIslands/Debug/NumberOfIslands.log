@@ -1,0 +1,6 @@
+﻿  Main.cpp
+D:\Files\Github Files\LeetCodeExplore\1-Queue&Stack\NumberOfIslands\NumberOfIslands\Main.cpp(13,17): warning C4018: “>”: 有符号/无符号不匹配
+D:\Files\Github Files\LeetCodeExplore\1-Queue&Stack\NumberOfIslands\NumberOfIslands\Main.cpp(13,49): warning C4018: “>”: 有符号/无符号不匹配
+D:\Files\Github Files\LeetCodeExplore\1-Queue&Stack\NumberOfIslands\NumberOfIslands\Main.cpp(33,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Files\Github Files\LeetCodeExplore\1-Queue&Stack\NumberOfIslands\NumberOfIslands\Main.cpp(35,21): warning C4018: “<”: 有符号/无符号不匹配
+  NumberOfIslands.vcxproj -> D:\Files\Github Files\LeetCodeExplore\1-Queue&Stack\NumberOfIslands\Debug\NumberOfIslands.exe
